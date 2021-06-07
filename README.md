@@ -29,3 +29,4 @@ Goal : I want contributors to help me list some singers.
 * Fall Out Boy
 * sumika
 * yorushika
+* Carpenters
