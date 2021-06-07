@@ -24,7 +24,7 @@ I want to know the name of your favorite Doraemon's Secret Tools. I'm looking fo
 3. dokodemodoa
 4. Torinuke-hupu
 5. Anki-pan
-6.
+6. Big-Light
 7.
 8.
 9.
